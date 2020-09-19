@@ -1,0 +1,6 @@
+framework module Pods_Jervin_Test_Project {
+  umbrella header "Pods-Jervin Test Project-umbrella.h"
+
+  export *
+  module * { export * }
+}
